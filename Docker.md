@@ -10,3 +10,4 @@ EX:podman apart from Docker
 ## Docker Lifecycle
 ## Docker terminology
 ### Architecture of Docker
+
