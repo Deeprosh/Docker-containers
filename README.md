@@ -7,4 +7,8 @@
 - Even with virtual machines also, we are still wasting some memory, so containers are introduced. But Virtual machines are still secure than containers.
 - Containers dont run their full Operating system,whereas virtual machines does.
 
-# Architecture diagram of Containers
+## Architecture diagram of Containers
+
+## Difference between container and Docker?
+## Difference between Docker image and Docker container?
+
