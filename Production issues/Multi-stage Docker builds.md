@@ -1,13 +1,1 @@
-
-
-~~~
-From Ubuntu
-
-WORKDIR
-
-RUN
-
-ENTRYPOINT[]
-CMD[]
-
-~~~
+# Multi-stage Docker buid
